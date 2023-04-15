@@ -1,3 +1,8 @@
+## [3.0.1] - 06/Feb/2023
+
+- Search TextBox border themable for all states
+- Fix crash by replacing FlutterLocation with Geolocator (#51)
+
 ## [3.0.0] - 22/Dec/2022
 
 - Upgrade packages
